@@ -1,0 +1,17 @@
+body{background-color: tan;}
+
+#userInput input {
+  margin-left: auto ;
+  margin-right: auto;
+  margin-top: 12.5%;
+  display: block;
+  width: 50%;
+  height: 30px;}
+  
+  
+#userInput button {
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  padding: 2px;
+  margin-bottom: auto;}
